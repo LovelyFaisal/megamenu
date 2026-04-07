@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 
 ##
-This is mega menu used to implement [Category system][https://github.com/LovelyFaisal/category-system]
+This is mega menu used to implement [Category system](https://github.com/LovelyFaisal/category-system)
 
 ## Getting Started
 
